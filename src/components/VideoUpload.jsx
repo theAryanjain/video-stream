@@ -7,7 +7,7 @@ function VideoUpload() {
     <div classNameName="text-white">
       <Card>
         <h1>
-          Upload Videos
+          Upload Videoss
         </h1>
         <div>
         <form className="flex items-center space-x-6">
